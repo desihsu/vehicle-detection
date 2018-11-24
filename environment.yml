@@ -251,5 +251,4 @@ dependencies:
     - webencodings==0.5.1
     - widgetsnbextension==3.2.1
     - xacro==1.13.3
-prefix: /home/desi/anaconda3/envs/vehicle_detection
 
